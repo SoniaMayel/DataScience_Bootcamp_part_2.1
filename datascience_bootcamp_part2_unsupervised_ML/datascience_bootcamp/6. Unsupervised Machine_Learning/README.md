@@ -1,7 +1,8 @@
 ## Project 6 
 
-- 📊 **Unsupervised Machine_Learning**: 
-- 🎶 Welcome to Music!
+ ### 📊 Unsupervised Machine_Learning: 
+- 🎶 *Welcome to Music!*
+
 A project involving Unsupervised ML using Python_K-Means Clustering.
     
 - 📑 **Case Study**:
@@ -15,8 +16,9 @@ A project involving Unsupervised ML using Python_K-Means Clustering.
 - [Christian Goerke](https://www.linkedin.com/in/christiangoerke/)
 - [Hans Lang](https://www.linkedin.com/in/hns-lng/)
     
-    ### Data Collection
-Dataset that has been collected from the Spotify API and contains the audio features (tempo, energy, danceability…) for a few thousand songs
+### Data Collection
+
+The dataset that has been collected from the Spotify API and contains the audio features (tempo, energy, danceability…) for a few thousand songs
 
 ### Data cleaning
 
